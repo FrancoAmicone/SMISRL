@@ -32,13 +32,13 @@
   padding: var(--space-xl) var(--space-lg);
   border-right: var(--rule-hair) solid var(--color-rule-soft);
   border-bottom: var(--rule-hair) solid var(--color-rule-soft);
-  min-height: 100px;
+  min-height: 240px;
 }
 
 .cell img,
 .cell svg {
-  max-width: 140px;
-  max-height: 52px;
+  max-width: 360px;
+  max-height: 136px;
   width: 100%;
   height: auto;
   object-fit: contain;

@@ -14,10 +14,10 @@ export default function Clientes() {
           {clientes.map((c) => (
             <li key={c.id} className={s.cell}>
               <Image
-                src={`/images/clientes/${c.id}.svg`}
+                src={`/images/clientes/${c.id}.png`}
                 alt={c.nombre}
-                width={140}
-                height={52}
+                width={360}
+                height={136}
                 style={{ objectFit: "contain" }}
               />
             </li>
