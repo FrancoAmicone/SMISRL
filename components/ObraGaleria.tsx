@@ -30,9 +30,6 @@ export default function ObraGaleria({ slug, fotos, titulo }: Props) {
                 sizes="(max-width: 414px) 100vw, 50vw"
                 style={{ objectFit: "cover" }}
               />
-              <div className={s.placeholder} aria-hidden="true">
-                Foto {i + 1}
-              </div>
             </button>
           </li>
         ))}

@@ -30,19 +30,6 @@
   transform: scale(1.04);
 }
 
-.placeholder {
-  position: absolute;
-  inset: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-ink-3);
-  font-family: var(--font-mono);
-  font-size: var(--text-xs);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-}
-
 /* Lightbox */
 .overlay {
   position: fixed;

@@ -11,49 +11,49 @@ export const obras: Obra[] = [
     titulo: "Escalera TK Agua Reposición",
     descripcion:
       "Diseño y montaje de escalera de acceso en tanque de agua para reposición de planta industrial.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["AGUA 1.jpg", "AGUA 2.jpg", "AGUA 3.jpg"],
   },
   {
     slug: "montaje-estructura-metalica-casa-elevada",
     titulo: "Montaje Estructura Metálica — Casa Elevada",
     descripcion:
       "Montaje de estructura metálica para vivienda elevada. Coordinación de logística de transporte y montaje en altura.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["CASA.jpg", "CASA 2.jpg", "03.svg"],
   },
   {
     slug: "tolva-balanza-envasadora",
     titulo: "Tolva y Balanza para Envasadora",
     descripcion:
       "Fabricación y montaje de sistema de tolva con balanza integrada para línea de envasado industrial.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["TOLVA 1.png", "TOLVA 2.jpg", "TOLVA 3.jpg"],
   },
   {
     slug: "estructura-acceso-techo-uta",
     titulo: "Estructura Acceso a Techo UTA",
     descripcion:
       "Diseño y montaje de estructura de acceso a techo para unidad de tratamiento de aire (UTA).",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["TECHO 1.png", "TECHO 2.jpg", "TECHO 3.jpg"],
   },
   {
     slug: "plataforma-deslizante-calador",
     titulo: "Plataforma Deslizante Calador",
     descripcion:
       "Fabricación e instalación de plataforma deslizante para sistema de calado de producción.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["CALA 1.png", "CALA 2.jpg", "CALA 3.jpg"],
   },
   {
     slug: "movimiento-equipos-wrappeadora",
     titulo: "Movimiento de Equipos y Montaje Wrappeadora",
     descripcion:
       "Coordinación del movimiento de equipos industriales y montaje de máquina wrappeadora en línea productiva.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["WRAP 1.jpg", "WRAP 2.jpg", "WRAP 3.jpg"],
   },
   {
     slug: "ingenierias-analisis-estructural",
     titulo: "Ingenierías y Análisis Estructural",
     descripcion:
       "Desarrollo de ingenierías y análisis estructural para equipos e instalaciones industriales.",
-    fotos: ["01.svg", "02.svg", "03.svg"],
+    fotos: ["ING 1.png", "ING 2.png", "ING 3.png"],
   },
 ];
 

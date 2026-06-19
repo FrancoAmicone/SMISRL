@@ -11,9 +11,13 @@ export default function Footer() {
       </p>
 
       <div className={s.meta}>
-        <span className={s.wordmark}>
-          SMI<span>.</span>
-        </span>
+        <img
+          src="/logo/LOGO SMI 3.png"
+          alt="SMI Logo"
+          width="100"
+          height="100"
+          style={{ width: 'auto', height: '40px', background: 'transparent' }}
+        />
 
         <nav className={s.metaLinks} aria-label="Footer">
           <a href="#quienes-somos">Nosotros</a>

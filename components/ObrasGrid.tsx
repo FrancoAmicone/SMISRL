@@ -25,9 +25,6 @@ export default function ObrasGrid() {
                   sizes="(max-width: 414px) 100vw, (max-width: 768px) 50vw, 33vw"
                   style={{ objectFit: "cover" }}
                 />
-                <div className={s.imgPlaceholder} aria-hidden="true">
-                  {obra.titulo}
-                </div>
               </div>
               <div className={s.info}>
                 <h3 className={s.titulo}>{obra.titulo}</h3>
